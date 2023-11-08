@@ -1,7 +1,16 @@
 ## Express.js-Challenge-Note-Taker
+## Description
+This challenge, We were tasked with creating an application that can be used to write and save notes. The app uses an Express.js back-end and will save and retrieve user generated note data.
 
+The application’s front end has already been created. It's our job to build the back end, connect the two, and then deploy the finished application to Heroku.
 
+## User Story
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
+## GitHub
+https://github.com/Jo3yG/Express.js-Challenge-Note-Taker.git
 
 ## License
 MIT License
